@@ -1,1 +1,3 @@
-# .github
+# WCU CS
+
+WCU CS Club Github
